@@ -11,3 +11,5 @@ The month that launched the most successful Kickstarter campaigns was May. Howev
 ## Distribution of Campaign Goals in Great Britain
 From these plots shown below, we can see that the mean campaign goal is around £4,000. This is outside of the range of outliers for amount pledged, so you should probably try to get your play produced for less than £4,000. Half of the campaign goals are less than £2,000, which is just over the 3rd quartile for amounts pledged.
 ![Box and Whisker Plot](Box-and-Whisker-Plot.png)
+
+If you follow the data, you should have a succesful campaign! Best of Luck!
