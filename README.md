@@ -63,13 +63,13 @@ finding as many backers as possible either through social media or other forms o
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-     1. We can tell that theater campaigns in all countries see more success than failure since 2009.
-     2. May or June seem to be the best months to kickstart a theater campaign.
+1. We can tell that theater campaigns in all countries see more success than failure since 2009.
+2. May or June seem to be the best months to kickstart a theater campaign.
 
 - What can you conclude about the Outcomes based on Goals?
-     1. The higher the goal amount, the more likely a campaign is to fail. 
-     2. Setting a goal amount of $15,000 or less increases the likliehood of a successful campaign.
-     3. And with a little further analysis, I found that the more backers a campaign has, the more likely they are to reach/ exceed their goal.
+1. The higher the goal amount, the more likely a campaign is to fail. 
+2. Setting a goal amount of $15,000 or less increases the likliehood of a successful campaign.
+3. And with a little further analysis, I found that the more backers a campaign has, the more likely they are to reach/ exceed their goal.
 
 - What are some limitations of this dataset? This dataset doesnt give the full picture. Addtional data is needed to determine potential reasons why campaigns that had extremely high goal amounts were successful despite the overall trend that the higher the goal amount, the less likely one is to have success. The number of backers along with the average pledge amount would have been helpful in the analysis.
 
