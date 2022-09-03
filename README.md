@@ -14,9 +14,11 @@ I performed the second analysis (Outcomes Based on Goals) by creating a workshee
 Using the countifs function was not necessarily challenging for me as I was able to copy the formulas down into the respective columns and rows and just updated the criteria as needed to save some time. The challenge was having to type in the goals parameters in the countifs function - It would have saved even more time if I could have just referenced the goal range in the formula rather than manually typing it. I am hoping that I will learn a quicker, more efficient way to perform this type of formula with specified ranges in the future. I can see that this formula could be very challenging and confusing for someone who does not have any experience with using it. Especially because the formula used for this analysis had several different critiera nestled into one formula. Missing commas, mispelled words, missing quotations, and incorrect symbols would cause this formula to not calculate correctly. Figure 2.2 below shows a sample of the countifs formulas I used in this analysis. Figure 2.3 shows the data compiled after all formulas (countifs, sum, percentages) were ran.
 
 Figure 2.1 Goal Criteria
+
 ![Goal Criteria](Goal-criteria.png)
 
 Figure 2.2 CountIFs Formulas
+
 ![CountIF's Formulas](countifs_formulas.png)
 
 Figure 2.3 Completed Goal Data after running all formulas
