@@ -52,7 +52,7 @@ Based on the data shown above, the higher the goal, the more likely a campaign i
 - The successful fundraising campaigns that had goals of 30,000 or less had an average of 51 backers per campaign. 
 - The successful fundraising campaigns that had a goal of 35,000 or more had an average of 334 backers per campaign.
  
-The high number of backers indicates that these campaigns had an excellent reach either through marketing, social media, or just very generous donors.
+The high number of backers indicates that these campaigns had an excellent reach either through marketing, social media, or very generous donors.
 
 At this time, there does not appear to be any fundraising campaigns for plays that were canceled. 
 
